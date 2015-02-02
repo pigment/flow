@@ -24,9 +24,9 @@ See [GitHub's tips for creating and handling pull request discussions](https://g
 
 ## Signing Off, Merging, & Deploying
 
-If tests pass and you feel that the branch is ready for merging, ask for sign off from another member of the team, @mentioning members if necessary. (Guidance for reviewing pull requests can be found in Appendix B: Reviewing pull requests.)
+If tests pass and you feel that the branch is ready for merging, ask for sign off from another member of the team, @mentioning members if necessary. (Guidance for reviewing pull requests can be found in [Appendix B: Reviewing pull requests](#appendix-b-reviewing-pull-requests).)
 
-After approval, you can merge it into master. This is usually just a case of pressing the "Merge pull request" button on the pull request page. (If the pull request cannot be merged automatically, checkout the rebasing steps below.)
+After approval, you can merge it into master. This is usually just a case of pressing the "Merge pull request" button on the pull request page. (If the pull request cannot be merged automatically, checkout the [rebasing steps](#pull-requests-that-cannot-be-merged-automatically) below.)
 
 Delete your branch if necessary. This is easily done on the GitHub site.
 
